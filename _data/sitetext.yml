@@ -27,7 +27,7 @@ en: &DEFAULT_EN
     max-height: 0px
   
   footer:
-    legal: ""
+    legal: " "
     social:
       - url: https://twitter.com/CSharpM7
         icon: "fab fa-twitter"
