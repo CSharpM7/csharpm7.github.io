@@ -27,10 +27,12 @@ en: &DEFAULT_EN
     max-height: 0px
   
   footer:
-    legal: "peep"
-    #social:
-      #- url: https://twitter.com
-      #  icon: "fab fa-twitter"
+    legal: ""
+    social:
+      - url: https://twitter.com/CSharpM7
+        icon: "fab fa-twitter"
+      - url: https://github.com/CSharpM7
+        icon: "fab fa-github"
         
 en-US:
   <<: *DEFAULT_EN
