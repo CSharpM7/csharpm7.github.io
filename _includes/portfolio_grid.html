@@ -9,12 +9,17 @@
     </div>
     <div class="row">
 	{% for project in site.portfolio %}
-      <div class="col-md-1 col-sm-1 portfolio-item">
+      <div class="col-md-2 col-sm-2 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
+	  	<div class="mask flex-center">
+        		<p class="white-text">Zoom effect</p>
+    		</div>
+		  <!--
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
+-->
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
