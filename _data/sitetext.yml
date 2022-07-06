@@ -19,6 +19,8 @@ en: &DEFAULT_EN
   portfolio:
     title: "C#'s Stage Info"
     text: "Random information about random stages in smash ultimate; geared towards modders"
+    button: Theme Source
+    buttonlink: "https://github.com/raviriley/agency-jekyll-theme/"
     section: portfolio
     closebutton: "Close Project"
 
