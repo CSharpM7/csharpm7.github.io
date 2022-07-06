@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
