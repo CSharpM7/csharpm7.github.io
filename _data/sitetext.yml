@@ -17,8 +17,8 @@ en: &DEFAULT_EN
 #    buttonlink: "#services"
     
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "C#'s Stage Info"
+    text: "Random information about random stages in smash ultimate; geared towards modders"
     section: portfolio
     closebutton: "Close Project"
 
