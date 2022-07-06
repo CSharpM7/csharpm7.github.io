@@ -27,7 +27,7 @@ en: &DEFAULT_EN
     max-height: 0px
   
   footer:
-    #legal: "Privacy Policy"
+    legal: ""
     #social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"
