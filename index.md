@@ -1,3 +1,3 @@
 ---
-layout: home2
+layout: homepage
 ---
