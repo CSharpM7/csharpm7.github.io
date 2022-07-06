@@ -40,4 +40,4 @@ markdown: kramdown
 # formspree_form_path: "f/a_form_id"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-theme 
