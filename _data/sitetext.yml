@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "C#'s Stage Info"
     text: "Random information about random stages in smash ultimate; geared towards modders"
     section: portfolio
-    closebutton: "X"
+    closebutton: ""
 
   clients:
     section: clients
