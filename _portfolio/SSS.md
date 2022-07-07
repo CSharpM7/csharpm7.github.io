@@ -1,6 +1,5 @@
 ---
-url: https://github.com/CSharpM7/SharpSmashSuite
-title: 
+title: https://github.com/CSharpM7/SharpSmashSuite
 subtitle: 
 image: 
 alt: 
