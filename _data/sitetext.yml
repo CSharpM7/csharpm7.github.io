@@ -17,8 +17,8 @@ en: &DEFAULT_EN
 #    buttonlink: "#services"
     
   portfolio:
-    title: "Nothing to see here!"
-    text: "Sorry!"
+    title: "C#'s Projects"
+    text: "Welcome!"
     section: portfolio
     closebutton: ""
 
