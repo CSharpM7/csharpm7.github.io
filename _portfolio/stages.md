@@ -1,4 +1,5 @@
 ---
+url: https://csharpm7.github.io/stages
 title: 
 subtitle: 
 image: 
