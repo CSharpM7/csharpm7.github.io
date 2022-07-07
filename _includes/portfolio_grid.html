@@ -10,27 +10,25 @@
     <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-2 col-sm-2 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">		        
-	  <div class="portfolio-hover"
-	       style="
-      background: linear-gradient(
-        45deg,
-        rgba(236, 29, 197, 0.5),
-        rgba(91, 14, 214, 0.5) 100%
-      );
-    ">
+        <a class="portfolio-link" href="{{ project.url }}">		        
+		  <div class="portfolio-hover"
+		   style="
+			  background: linear-gradient(
+				45deg,
+				rgba(236, 29, 197, 0.5),
+				rgba(91, 14, 214, 0.5) 100%
+			);
+			">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
           <img class="img-fluid w-100" src="{{ project.caption.thumbnail }}" alt="">
         </a>
-        <!--
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
-      -->
       </div>
 	{% endfor %}
     </div>
