@@ -9,12 +9,12 @@
     </div>
     <div class="row">
 	{% for project in site.portfolio %}
-      <div class="col-md-2 col-sm-2 portfolio-item">
+      <div class="col-md-4 col-sm-4 portfolio-item">
         <a href="{{ project.title }}">
             <img class="img-fluid d-block mx-auto" src="{{ project.caption.thumbnail }}" alt="{{ project.caption.title }}">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.title }}</h4>
+          <h4>{{ project.caption.title }}</h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
