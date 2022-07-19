@@ -33,6 +33,8 @@ en: &DEFAULT_EN
         icon: "fab fa-twitter"
       - url: https://github.com/CSharpM7
         icon: "fab fa-github"
+      - url: https://ko-fi.com/csharpm7
+        icon: "fas fa-solid fa-mug-saucer"
         
 en-US:
   <<: *DEFAULT_EN
