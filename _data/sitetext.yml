@@ -34,7 +34,7 @@ en: &DEFAULT_EN
       - url: https://github.com/CSharpM7
         icon: "fab fa-github"
       - url: https://ko-fi.com/csharpm7
-        icon: "fab fa-gratipay"
+        icon: "fab fa-patreon"
         
 en-US:
   <<: *DEFAULT_EN
