@@ -1,7 +1,7 @@
 ---
 title: https://github.com/CSharpM7/SharpSmashSuite
 subtitle: 
-image: 
+image: "https://user-images.githubusercontent.com/13909643/170925201-fde9546b-fd43-4415-b293-c594634fb7bd.png"
 alt: 
 
 caption:
@@ -10,3 +10,9 @@ caption:
   thumbnail: "https://user-images.githubusercontent.com/13909643/170925201-fde9546b-fd43-4415-b293-c594634fb7bd.png"
 
 ---
+
+A collection of tjings
+
+|| |
+| -- | -- |
+| [**Download**](https://github.com/CSharpM7/SharpSmashSuite/releases) | [**Source Code**](https://github.com/CSharpM7/SharpSmashSuite) |
