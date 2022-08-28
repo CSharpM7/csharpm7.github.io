@@ -12,6 +12,6 @@ caption:
 
 A custom site, created by heavily modifying the Agency theme, to display different information for modding. Made with modders in mind to help information become more accessible outside of private forums.
 
-| | | |
-| :-- | :--: |--: |
-| [**Site**](https://csharpm7.github.io/stages) | | [**Source Code**](https://github.com/CSharpM7/stages) |
+{:.list-inline} 
+- [**Site**](https://csharpm7.github.io/stages) 
+- [**Source Code**](https://github.com/CSharpM7/stages) 
