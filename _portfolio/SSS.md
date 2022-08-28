@@ -11,8 +11,8 @@ caption:
 
 ---
 
-A collection of tjings
+A collection of things
 
 || |
-| -- | -- |
+| :-- | --: |
 | [**Download**](https://github.com/CSharpM7/SharpSmashSuite/releases) | [**Source Code**](https://github.com/CSharpM7/SharpSmashSuite) |
