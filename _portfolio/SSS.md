@@ -11,7 +11,7 @@ caption:
 
 ---
 
-A collection of things
+A huge collection of various python and excel scripts to help convert models and textures to be used in Super Smash Bros. Ultimate.
 
 {:.list-inline} 
 - [**Download**](https://github.com/CSharpM7/SharpSmashSuite/releases) 
