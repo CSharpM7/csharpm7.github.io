@@ -16,4 +16,5 @@ GUI for editing levels in Super Smash Bros Ultimate made using python
 
 {:.list-inline} 
 - [**Download**](https://github.com/CSharpM7/LVDSpec/releases)
+- [**Wiki**](https://github.com/CSharpM7/LVDSpec/wiki)
 - [**Source Code**](https://github.com/CSharpM7/LVDSpec)

@@ -15,4 +15,5 @@ A huge collection of various python and excel scripts to help convert models and
 
 {:.list-inline} 
 - [**Download**](https://github.com/CSharpM7/SharpSmashSuite/releases) 
+- [**Wiki**](https://github.com/CSharpM7/SharpSmashSuite/wiki)
 - [**Source Code**](https://github.com/CSharpM7/SharpSmashSuite) 
