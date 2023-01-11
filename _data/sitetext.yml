@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     
   portfolio:
     title: "C#'s Projects"
-    text: "Welcome!"
+    text: "Welcome to my github portfolio! This contains some of my personal highlighted projects, as well as a brief description on them. If you would like to go to my main github repository, click on the github icon."
     section: portfolio
     closebutton: ""
 
